@@ -5,13 +5,11 @@
 4. MySQL Relational Database
 
  
-## 📖  How to Download the Project and Run on your PC?
+## 📖  How to Download and Run the Project
 
 ### Pre-Requisites:
 
-1. Download and Install XAMPP
-
-[Click Here to Download](https://www.apachefriends.org/index.html)
+1. Download and Install XAMPP. [Click Here to Download](https://www.apachefriends.org/index.html)
 
 2. Install any Text Editor (Sublime Text or Visual Studio Code or Atom or Brackets)
 
@@ -20,7 +18,7 @@
 1. Download as as Zip or Clone this project
 2. Move this project to Root Directory
 ```
-Local Disc C: -> xampp -> htdocs -> 'this project'
+Local Disc C: -> xampp -> htdocs -> 'CLUBS_IITK'
 ```
 *Local Disk C is the location where xampp was installed*
 
@@ -54,4 +52,3 @@ $db_select = mysqli_select_db($conn, DB_NAME) or die(mysqli_error()); //SElectin
 ```
 
 6. Now, Open the project in your browser. It should run perfectly.
-
